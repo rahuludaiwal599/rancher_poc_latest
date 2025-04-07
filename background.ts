@@ -183,12 +183,8 @@ mainEvents.handle('settings-fetch', () => {
 Electron.protocol.registerSchemesAsPrivileged([{ scheme: 'app' }, {
   scheme:     'x-rd-extension',
   privileges: {
-    standard:            true,
-    secure:              true,
-    bypassCSP:           true,
-    allowServiceWorkers: true,
-    supportFetchAPI:     true,
-    corsEnabled:         true,
+    standard:        true,
+    supportFetchAPI: true,
   },
 }]);
 
