@@ -2,7 +2,7 @@
   "name": "rancher-desktop",
   "productName": "Rancher Desktop",
   "license": "Apache-2.0",
-  "version": "1.17.1",
+  "version": "1.18.2",
   "author": {
     "name": "SUSE",
     "email": "containers@suse.com"
@@ -141,7 +141,7 @@
     "cross-env": "7.0.3",
     "css-loader": "7.1.2",
     "ejs": "3.1.10",
-    "electron": "34.1.1",
+    "electron": "34.2.0",
     "electron-builder": "25.1.8",
     "eslint": "8.57.1",
     "eslint-plugin-deprecation": "3.0.0",
@@ -164,7 +164,7 @@
     "octokit": "3.2.1",
     "ps-tree": "1.2.0",
     "raw-loader": "4.0.2",
-    "sass": "1.84.0",
+    "sass": "1.85.0",
     "sass-loader": "16.0.4",
     "ts-jest": "29.2.5",
     "ts-loader": "^9.5.2",
@@ -173,7 +173,7 @@
     "typescript": "5.7.3",
     "vue-eslint-parser": "9.4.3",
     "vue-template-compiler": "2.7.16",
-    "webpack": "5.97.1"
+    "webpack": "5.98.0"
   },
   "resolutions": {
     "string-width": "^4"
